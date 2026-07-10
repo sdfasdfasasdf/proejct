@@ -49,13 +49,12 @@ class _MenuPageState extends State<MenuPage> {
                           ),
                         ),
 
-                        const SizedBox(height: 30
-                        ),
+                        const SizedBox(height: 30),
                         MyButton(text: 'Redeem', onTap: () {}),
                       ],
                     ),
                     Image.asset(
-                      'lib/images/sushi.png',
+                      'lib/images/image.png',
                       width: 150,
                       height: 150,
                     ),
